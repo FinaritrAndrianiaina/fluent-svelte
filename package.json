@@ -1,8 +1,8 @@
 {
-	"name": "fluent-svelte",
+	"name": "@fproject/fluent-svelte",
 	"version": "1.6.0",
-	"description": "A faithful implementation of Microsoft's Fluent Design System in Svelte.",
-	"homepage": "https://github.com/tropix126/fluent-svelte",
+	"description": "[FORK] A faithful implementation of Microsoft's Fluent Design System in Svelte.",
+	"homepage": "https://github.com/FinaritrAndrianiaina/fluent-svelte.git",
 	"license": "MIT",
 	"author": {
 		"name": "tropix126",
@@ -28,10 +28,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tropix126/fluent-svelte.git"
+		"url": "https://github.com/FinaritrAndrianiaina/fluent-svelte.git"
 	},
 	"bugs": {
-		"url": "https://github.com/tropix126/fluent-svelte/issues"
+		"url": "https://github.com/FinaritrAndrianiaina/fluent-svelte/issues"
 	},
 	"scripts": {
 		"dev": "svelte-kit dev",
